@@ -95,3 +95,8 @@ section.marign_bet_secti{
 h3.section-title {
     color: white !important;
 }
+
+section.marign_bet_secti {
+    margin-top: 3rem;
+    color: white !important;
+}
